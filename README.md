@@ -6,3 +6,7 @@ Neste projeto, desenvolvemos uma análise exploratória de dados utilizando a ba
 Para o correto entendimento de nosso dados, disponibilizamos [neste link](https://docs.google.com/spreadsheets/d/1-y2XLTG_AWINH6F4FKPcjfNl1yeFIPujACHJwHKMR5Y/edit?usp=sharing) os sigficados dos campos que serão trabalhados neste análise.
 
 Também disponibilizamos o sample do dataset que usamos [neste link](https://drive.google.com/drive/folders/1e7p0jmvarkBoupnZAErkrlykCUNucI73?usp=sharing).
+
+## Videos
+### Video Parte I
+https://drive.google.com/file/d/1EYbcqjjrZwo_D0lvOpqtj5Tr5tJPDMQf/view?usp=sharing
