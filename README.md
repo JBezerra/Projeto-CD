@@ -10,3 +10,7 @@ Também disponibilizamos o sample do dataset que usamos [neste link](https://dri
 ## Videos
 ### Video Parte I
 https://drive.google.com/file/d/1EYbcqjjrZwo_D0lvOpqtj5Tr5tJPDMQf/view?usp=sharing
+
+## Videos
+### Video Parte II
+https://drive.google.com/file/d/1aW186g07YeqxYBkm6ncficXEWtU9kFW6/view?usp=sharing
