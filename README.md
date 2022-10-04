@@ -8,9 +8,9 @@ Para o correto entendimento de nosso dados, disponibilizamos [neste link](https:
 Também disponibilizamos o sample do dataset que usamos [neste link](https://drive.google.com/drive/folders/1e7p0jmvarkBoupnZAErkrlykCUNucI73?usp=sharing).
 
 ## Videos
-### Video Parte I
+### Projeto Parte I
 https://drive.google.com/file/d/1EYbcqjjrZwo_D0lvOpqtj5Tr5tJPDMQf/view?usp=sharing
 
 ## Videos
-### Video Parte II
+### Projeto Parte II
 https://drive.google.com/file/d/1aW186g07YeqxYBkm6ncficXEWtU9kFW6/view?usp=sharing
